@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaevom.martin-godwin.com/sitemap.xml
